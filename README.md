@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btw-aansh&label=Profile%20views&color=0e75b6&style=flat" alt="btw-aansh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iankit2112" target="blank"><img src="https://img.shields.io/twitter/follow/iankit2112?logo=twitter&style=for-the-badge" alt="iankit2112" /></a> </p>
+<p align="left"> <a href="https://twitter.com/asmodeus_9031" target="blank"><img src="https://img.shields.io/twitter/follow/asmodeus_9031?logo=twitter&style=for-the-badge" alt="iankit2112" /></a> </p>
 
 - 🔭 I’m currently working on **JAVA**
 
