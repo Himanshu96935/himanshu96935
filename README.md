@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)](https://btw-aansh.io)
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/50/de/0e/50de0eebb7bb31620f3a8cf78d3c9267.gif](https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)">
+<img align="right" alt="coding" width="400" src="[(https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)])">
                                                   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btw-aansh&label=Profile%20views&color=0e75b6&style=flat" alt="btw-aansh" /> </p>
