@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JAVA , PYTHON ,HTML , C**
 
-- 📫 How to reach me **aksingh2184@gmail.com**
+- 📫 How to reach me **himanshu44226688@gmail.com**
 
 - ⚡ Fun fact **I AM FUNNY**
 
