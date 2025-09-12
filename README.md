@@ -29,8 +29,16 @@
 ## 📈 GitHub Journey  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="160" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu96935&show_icons=true&theme=tokyonight" height="160" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=himanshu96935&theme=tokyonight" height="160" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu96935&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -48,6 +56,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-raj9031/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:himanshu44226688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/Himanshu76535"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
