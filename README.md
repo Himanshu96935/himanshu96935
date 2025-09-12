@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20YOURNAME👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Himanshu👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- Typing effect -->
@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **B.Tech CSE Student** (6th Semester)  
+- 🎓 **B.Tech CSE Student**  
 - 🌱 Currently learning **Java + Web Development + DSA**  
 - 🎯 Goal: To become a **Full Stack Java Developer**  
 - ⚡ Fun fact: I believe in **“Learning by Doing”**  
@@ -46,8 +46,8 @@
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-raj9031/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:himanshu44226688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
