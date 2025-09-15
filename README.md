@@ -32,7 +32,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu96935&show_icons=true&theme=tokyonight" height="160" />
   
-  <!-- GitHub Streak -->
+ <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=himanshu96935&theme=tokyonight" height="160" />
 </p>
 
