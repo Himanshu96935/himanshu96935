@@ -29,17 +29,20 @@
 ## 📈 GitHub Journey  
 
 <p align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=himanshu96935&show_icons=true&theme=tokyonight" height="160" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=himanshu96935&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu96935&show_icons=true&theme=tokyonight" height="160" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=himanshu96935&theme=tokyonight&hide_border=true" height="160" />
+
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu96935&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true" />
 </p>
+
 
 ---
 
